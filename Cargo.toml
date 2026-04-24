@@ -4,4 +4,11 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+bevy_app = "0.18.1"
+bevy_derive = "0.18.1"
+bevy_ecs = "0.18.1"
+bevy_math = "0.18.1"
+bevy_transform = "0.18.1"
+
+[dev-dependencies]
 bevy = "0.18.1"

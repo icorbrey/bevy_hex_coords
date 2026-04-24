@@ -12,7 +12,11 @@
 //!     ‾‾D‾‾
 //! ```
 
-use bevy::prelude::*;
+use bevy_app::prelude::*;
+use bevy_derive::{Deref, DerefMut};
+use bevy_ecs::prelude::*;
+use bevy_math::prelude::*;
+use bevy_transform::prelude::*;
 
 pub struct HexCoordsPlugin {
     pub auto_attach_transforms: bool,
