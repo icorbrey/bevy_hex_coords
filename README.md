@@ -14,7 +14,7 @@ and edge placement and rotation, for the [Bevy] game engine.
 ## Installation
 
 ```sh
-cargo add --git https://github.com/icorbrey/bevy_hex_coords
+cargo add bevy_hex_coords
 ```
 
 ## Usage
