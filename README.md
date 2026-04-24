@@ -9,7 +9,7 @@ and edge placement and rotation, for the [Bevy] game engine.
 > **Not for production use.** This library was built as a learning experience
 > in deriving hexagonal grid semantics from first principles. No thought has
 > been put into ergonomics and there is no guarantee that I will maintain this
-> in the future.D
+> in the future.
 
 ## Installation
 
