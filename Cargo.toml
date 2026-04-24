@@ -3,7 +3,7 @@ name = "bevy_hex_coords"
 description = "Hexagonal coordinate utilities for the Bevy game engine."
 repository = "https://tangled.org/did:plc:pw2qvlzzgblxvnpuq7umcltx"
 license = "Apache-2.0 OR MIT"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 
 [dependencies]
